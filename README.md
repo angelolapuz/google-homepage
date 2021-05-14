@@ -1,0 +1,1 @@
+// A mini-project given by The Odin Project where you must build the Google.com homepage yourself, using HTML and CSS.
